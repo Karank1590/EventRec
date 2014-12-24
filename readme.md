@@ -8,7 +8,7 @@ Karan Kaul- kak2210@columbia.edu, Umang Patel - ujp2001@columbia.edu
 
 GitHub URL
 ----------
-https://github.com/umangkaranfinal/EventRec
+https://github.com/17patelumang/EventRec
 
 
 Youtube URL
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=X8BP-KTjBdo&feature=youtu.be
 
 Description
 -----------
-A smart Event Recommendation System, suggests events taking into consideration a user's social media interaction. A user logs in using their Facebook credentials, information about a person’s interests is collected and we utilize this data to recommend events. As far as events go, we collect real world events occurring in various cities from popular event platforms, Eventful and Seatgeek. All this is usable through a web application built in PHP.
+A smart Event Recommendation System, suggests events taking into consideration a user's social media interaction. A user logs in using their Facebook credentials, information about a personâ€™s interests is collected and we utilize this data to recommend events. As far as events go, we collect real world events occurring in various cities from popular event platforms, Eventful and Seatgeek. All this is usable through a web application built in PHP.
 
 Components & Flow
 -----------------
