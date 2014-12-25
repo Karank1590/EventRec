@@ -1,4 +1,4 @@
-EventRec
+﻿EventRec
 ========
 
 Authors
@@ -54,7 +54,6 @@ We also take user feedback of going to event by taking weighted average of the o
 Recommendation system basically does standard SVD. We solve it as an optimisation problem where we try to reduce the mean square  error between true matrix and estimated matrix. Since the optimization function is convex  we use gradient  descent method  to solve the optimisation problem.
 
 
-
 Technologies Used
 -----------------
 1. PHP
@@ -69,7 +68,6 @@ Technologies Used
 10. EventFul API
 11. Yelp API
 12. Google Maps
-
 
 
 Libraries Used
