@@ -8,7 +8,7 @@ Karan Kaul- kak2210@columbia.edu, Umang Patel - ujp2001@columbia.edu
 
 GitHub URL
 ----------
-https://github.com/17patelumang/EventRec
+https://github.com/Karank1590/EventRec
 
 
 Youtube URL
